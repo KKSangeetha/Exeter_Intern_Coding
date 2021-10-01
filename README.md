@@ -10,4 +10,7 @@ Description:
 
 4.t8.shakespeare.txt
 
-5.Output files: -- t8.shakespeare.translate.txt ( transalted file ) -- performance.txt ( performance of the program is mentioned ) -- frequency.txt ( frequency of translated words )
+5.Output files: 
+	-- t8.shakespeare.translate.txt ( transalted file ) 
+	-- performance.txt ( performance of the program is mentioned ) 
+	-- frequency.txt ( frequency of translated words )
